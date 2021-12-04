@@ -1,7 +1,7 @@
 # Chromatic spatial_contrast
 This repository contains supplementary information and Matlab code accompanying the manuscript by De and Horwitz, "Coding of chromatic spatial contrast by macaque V1 neurons"
 
-# monitor cone details
+# monitor details
  Matlab structure containing the following fields:
     background_rgb: intensity of the red, green, and blue primaries to the background of the display in normalized units (0 = minimum intensity, 1 = maximum intensity).
     wavelengths: lattice of wavelengths at which irradiance was measured (in nm).
