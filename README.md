@@ -1,4 +1,4 @@
-# Chromatic spatial_contrast
+# Chromatic spatial contrast
 This repository contains supplementary information and Matlab code accompanying the manuscript by De and Horwitz, "Coding of chromatic spatial contrast by macaque V1 neurons"
 
 # monitor details
